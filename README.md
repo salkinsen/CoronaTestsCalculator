@@ -23,3 +23,5 @@ npm install --save bootstrap bootstrap-vue
 ```
 vue serve
 ```
+
+![UI der App](./images/example-ui.png)
